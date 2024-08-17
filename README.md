@@ -1,1 +1,2 @@
-# Hostel-Accommodation-Management-System-for-Students
+# Hostel-Management-System
+Hostel Management System
